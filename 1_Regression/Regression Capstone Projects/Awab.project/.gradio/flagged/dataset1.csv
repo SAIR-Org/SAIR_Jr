@@ -1,0 +1,3 @@
+Age,Sex,BMI,Children,Smoker,Region,output,timestamp
+30,male,25,0,yes,northeast,"💰 Estimated Insurance Cost: $18,737.56",2026-03-15 14:54:27.843250
+30.8,male,33.1,3,yes,northeast,"💰 Estimated Insurance Cost: $38,627.02",2026-03-15 14:58:39.829033
