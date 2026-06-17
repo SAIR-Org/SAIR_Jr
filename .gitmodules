@@ -1,0 +1,3 @@
+[submodule "4_Applied Deep Learning with PyTorch/lab_assignments/ibrahim_alhafiz/classification_hub"]
+	path = 4_Applied Deep Learning with PyTorch/lab_assignments/ibrahim_alhafiz/classification_hub
+	url = https://github.com/Ibraheem-Al-hafith/classification_hub.git
