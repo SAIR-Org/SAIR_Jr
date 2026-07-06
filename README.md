@@ -20,7 +20,9 @@
 </a>
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/COMING_SOON-Module_6:_MLOps-9C27B0?style=for-the-badge&logo=docker&logoColor=white" alt="Coming Soon"/>
+<a href="https://github.com/SAIR-Org/SAiR-MLOps">
+<img src="https://img.shields.io/badge/⚙️_MLOps_MODULE-9C27B0?style=for-the-badge&logo=docker&logoColor=white" alt="MLOps Module"/>
+</a>
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/ENROLLMENT-OPEN-brightgreen?style=for-the-badge" alt="Status"/>
@@ -47,7 +49,7 @@
 | 3 — Neural Networks from Scratch | `3_Neural%20Network%20from%20scratch/` | [README](3_Neural%20Network%20from%20scratch/README.md) | ✅ Complete |
 | 4 — Applied Deep Learning with PyTorch | `4_Applied Deep Learning with PyTorch/` | [README](4_Applied%20Deep%20Learning%20with%20PyTorch/README.md) | ✅ Complete |
 | 5 — GPT from Scratch | `5_GPT from scratch/` | [README](5_GPT%20from%20scratch/README.md) · [🏆 Capstone](https://github.com/SAIR-Org/miniGPT) | ✅ Complete |
-| 6 — MLOps | `6_MLOps/` | — | 🔜 Incoming |
+| 6 — MLOps | [SAiR-MLOps](https://github.com/SAIR-Org/SAiR-MLOps) | [README](https://github.com/SAIR-Org/SAiR-MLOps) | ✅ Complete |
 
 ---
 
@@ -115,7 +117,7 @@
 │   ├── 🧠 Module 3: Neural Networks
 │   ├── 🔥 Module 4: Deep Learning ✅
 │   ├── 🧠 Module 5: GPT from Scratch ✅
-│   ├── ⚙️ Module 6: MLOps (Coming Soon)
+│   ├── ⚙️ Module 6: MLOps ✅ [SAiR-MLOps](https://github.com/SAIR-Org/SAiR-MLOps)
 │   └── 💎 Capstone: Real-World Project
 │
 ├── 🚀 SAIR Mid (Planned Next Stage)
@@ -197,7 +199,7 @@
 <td align="center"><strong>6 ⚙️</strong></td>
 <td><strong>MLOps</strong><br/><em>Docker · FastAPI · MLflow · DVC · Data Pipelines · CI/CD · Monitoring</em></td>
 <td align="center">6-8 weeks</td>
-<td align="center">🔜 <strong>Coming Soon</strong></td>
+<td align="center"><a href="https://github.com/SAIR-Org/SAiR-MLOps">✅ Complete</a></td>
 <td>Production ML system: containerized, versioned, monitored, and deployed</td>
 <td>Production operations</td>
 </tr>
@@ -926,7 +928,7 @@ Python foundations guide
 
 ### 📝 **Getting Started with NeetCode 75**
 
- **Set Up Your Progress Tracker:**
+**Set Up Your Progress Tracker:**
    ```python
    # Example progress tracking structure
    problems/
