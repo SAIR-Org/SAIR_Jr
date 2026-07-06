@@ -33,7 +33,8 @@
 **Track Lead:** [Mohammed Awad Ahmed (Silva)](https://www.linkedin.com/in/maas-ai)  
 **Duration:** 6-9 months (self-paced with cohort support)  
 **Level:** Aspiring Junior AI/ML Engineer  
-**Prerequisites:** Basic programming mindset (we teach you Python!)
+**Prerequisites:** Basic programming mindset (we teach you Python!)  
+**Recommended (not required):** Basic SQL familiarity (SELECT, JOIN, WHERE, GROUP BY) — highly beneficial for data engineering, feature stores, and MLOps pipelines
 
 </div>
 
@@ -325,7 +326,7 @@
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <div style="background: #f3e5f5; padding: 15px; border-radius: 10px; height: 180px;">
 <h4>🐍 Foundation</h4>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🐍 Python</code>
@@ -334,7 +335,7 @@
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">📊 Matplotlib</code>
 </div>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <div style="background: #e3f2fd; padding: 15px; border-radius: 10px; height: 180px;">
 <h4>🤖 Classical ML</h4>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🧪 Scikit-learn</code>
@@ -343,7 +344,7 @@
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🌊 Streamlit</code>
 </div>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <div style="background: #fff3e0; padding: 15px; border-radius: 10px; height: 180px;">
 <h4>🔥 Deep Learning</h4>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🔥 PyTorch</code>
@@ -352,7 +353,7 @@
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">⚖️ Weights & Biases</code>
 </div>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <div style="background: #e8f5e9; padding: 15px; border-radius: 10px; height: 180px;">
 <h4>⚙️ MLOps</h4>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🐳 Docker</code>
@@ -361,13 +362,21 @@
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">📊 Prometheus</code>
 </div>
 </td>
-<td align="center" width="20%">
+<td align="center" width="16%">
 <div style="background: #fce4ec; padding: 15px; border-radius: 10px; height: 180px;">
 <h4>☁️ Deployment</h4>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">☁️ AWS/GCP</code>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🚢 Kubernetes</code>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">📈 Grafana</code>
 <code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🗄️ SQLite</code>
+</div>
+</td>
+<td align="center" width="16%">
+<div style="background: #e0f7fa; padding: 15px; border-radius: 10px; height: 180px;">
+<h4>🗄️ Data</h4>
+<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">🐘 PostgreSQL</code>
+<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">📊 SQL</code>
+<code style="background: #f8f9fa; padding: 2px 6px; border-radius: 4px; display: block; margin: 5px 0;">📈 Data Pipelines</code>
 </div>
 </td>
 </tr>
