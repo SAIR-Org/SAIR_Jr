@@ -1,0 +1,24 @@
+# Python
+pycache/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# MLflow
+experiments/
+models/
+
+# Raw dataset
+New-repo/
+
+# Unused files
+scaler.joblib
+app_2.py
+
+# Streamlit
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
