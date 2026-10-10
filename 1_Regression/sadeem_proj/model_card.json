@@ -1,0 +1,20 @@
+{
+    "model_type": "GradientBoostingRegressor",
+    "tuning": "GridSearchCV",
+    "r2_score": 0.9980317397446292,
+    "rmse": 0.4529401911282865,
+    "mae": 0.3502277088025494,
+    "features": [
+        "Relative_Compactness",
+        "Surface_Area",
+        "Wall_Area",
+        "Roof_Area",
+        "Overall_Height",
+        "Orientation",
+        "Glazing_Area",
+        "Glazing_Area_Distribution",
+        "Total_Surface_Area",
+        "Height_to_Surface_Ratio"
+    ],
+    "target": "Heating_Load"
+}
