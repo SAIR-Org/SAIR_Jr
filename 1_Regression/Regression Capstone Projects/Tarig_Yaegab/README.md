@@ -112,3 +112,50 @@ print(result)   # ≈ 4029.73
 - الموديل خطي، فلا تثق بتوقعاته **خارج نطاق** القيم اللي اتدرّب عليها.
 - كل تدريب يحفظ نسخة جديدة في `models/`، وتقدر تمسح القديمة يدوياً.
 - الـ `StandardScaler` محفوظ مع الموديل ولازم يُستخدم دائماً قبل التوقع.
+
+
+
+v## Project Structure
+
+| File | Purpose |
+|------|---------|
+| `generate_data.py` | Generates the sales dataset |
+| `train_model.py` | Trains the regression model and saves it |
+| `predict.py` | Loads the saved model and predicts sales values |
+| `ui.py` | Simple user interface for making predictions |
+| `model.ipynb` | Notebook with exploration and model experiments |
+
+## Requirements
+
+- Python 3.9+
+- <numpy, pandas, scikit-learn, ...>
+
+Install them with:
+
+```bash
+pip install numpy pandas scikit-learn
+```
+
+## How to Run
+
+1. Generate the data:
+```bash
+   python generate_data.py
+```
+2. Train the model:
+```bash
+   python train_model.py
+```
+3. Make a prediction:
+```bash
+   python predict.py
+```
+4. Launch the interface:
+```bash
+   python ui.py
+```
+
+## Results
+
+- Model: <Linear Regression / ...>
+- Evaluation: <R² = ..., MAE = ...>
