@@ -9,7 +9,7 @@ from utils import AdvancedFeatureEngineer, OutlierHandler
 # ===========================
 # 1️⃣ Auto-detect latest model version
 # ===========================
-model_folders = glob.glob("models/v1_20261009_104433")
+model_folders = glob.glob("models/v1_20261019_152903")
 if not model_folders:
     st.error("❌ No model folders found in 'models/'. Please train and save a model first.")
     st.stop()
@@ -131,5 +131,5 @@ st.sidebar.subheader("ℹ️ Model Information")
 st.sidebar.write(f"**Loaded from:** `{MODEL_DIR}`")
 st.sidebar.write("**Model:** Gradient Boosting Regressor")
 st.sidebar.write("**Dataset:** LengthofStay")
-st.sidebar.write("**Validation R²:** 0.939")
-st.sidebar.write("**Test R²:** 0.94 | RMSE: 0.572 | MAE: 0.41")
+st.sidebar.write("**Validation R²:** 0.9411")
+st.sidebar.write("**Test R²:** 0.9403 | RMSE: 0.5725 | MAE: 0.4160")
