@@ -1,0 +1,17 @@
+[project]
+name = "classical-ml"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "gradio>=6.31.0",
+    "matplotlib>=3.10.9",
+    "mlflow>=3.18.0",
+    "openpyxl>=3.1.5",
+    "pandas>=2.3.3",
+    "scikit-learn>=1.7.2",
+    "seaborn>=0.13.2",
+    "streamlit>=1.65.0",
+    "xgboost>=3.2.0",
+]

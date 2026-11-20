@@ -1,0 +1,24 @@
+# Virtual Environments
+.venv/
+venv/
+ENV/
+
+# Python Bytecode & Cache
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.gradio/
+
+# Local MLflow Runs & Scratch Experiments
+mlruns/
+mlartifacts/
+mlflow.db
+experiments/
+
+# Streamlit Secrets
+.streamlit/secrets.toml
+
+# OS & IDE Files
+.DS_Store
+.vscode/
+.idea/
